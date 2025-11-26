@@ -1,5 +1,3 @@
-# Trabajo por Juan Molinas y Pablo Cardozo
-
 import os
 import mysql.connector
 from mysql.connector import errorcode
